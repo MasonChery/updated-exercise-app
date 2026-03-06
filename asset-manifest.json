@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http//MasonChery.github.io/updated-exercise-app/static/css/main.f491e86e.css",
+    "main.js": "/http//MasonChery.github.io/updated-exercise-app/static/js/main.21ac9dde.js",
+    "static/js/453.d336f6a4.chunk.js": "/http//MasonChery.github.io/updated-exercise-app/static/js/453.d336f6a4.chunk.js",
+    "index.html": "/http//MasonChery.github.io/updated-exercise-app/index.html",
+    "main.f491e86e.css.map": "/http//MasonChery.github.io/updated-exercise-app/static/css/main.f491e86e.css.map",
+    "main.21ac9dde.js.map": "/http//MasonChery.github.io/updated-exercise-app/static/js/main.21ac9dde.js.map",
+    "453.d336f6a4.chunk.js.map": "/http//MasonChery.github.io/updated-exercise-app/static/js/453.d336f6a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f491e86e.css",
+    "static/js/main.21ac9dde.js"
+  ]
+}
